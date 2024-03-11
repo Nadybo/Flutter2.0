@@ -368,6 +368,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.2.1+1"
+  innim_lint:
+    dependency: "direct dev"
+    description:
+      name: innim_lint
+      sha256: "7634a41723431aece5e9d1dd5547a5f643f2abb7d6c6837c53608d3c74c271c0"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.1"
   intl:
     dependency: "direct main"
     description:
