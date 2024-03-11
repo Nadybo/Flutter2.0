@@ -28,6 +28,24 @@
 		<string>LaunchScreen</string>
 		<key>UIMainStoryboardFile</key>
 		<string>Main</string>
+
+		<key>CFBundleURLTypes</key>
+        <array>
+          <dict>
+          <key>CFBundleURLSchemes</key>
+          <array>
+            <string>vk[51874626]</string>
+          </array>
+          </dict>
+        </array>
+
+        <key>LSApplicationQueriesSchemes</key>
+        <array>
+            <string>vk</string>
+            <string>vk-share</string>
+            <string>vkauthorize</string>
+        </array>
+
 		<key>UISupportedInterfaceOrientations</key>
 		<array>
 			<string>UIInterfaceOrientationPortrait</string>
@@ -49,5 +67,9 @@
 		<true/>
 		<key>UIViewControllerBasedStatusBarAppearance</key>
 		<false/>
+
+		<key>VKAppId</key>
+        <string>[51874626]</string>
+
 	</dict>
 </plist>
